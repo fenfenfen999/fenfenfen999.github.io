@@ -30,7 +30,7 @@
   "short_name": "MyPWA",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/index.html",
   "description": "My awesome Progressive Web App!",
   "background_color": "#ffffff"
 }
